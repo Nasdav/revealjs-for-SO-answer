@@ -1823,6 +1823,8 @@
 				
 					dom.slides.style.left = '0';
 					dom.slides.style.right = '0';
+					dom.slides.style.top = 'auto';
+					dom.slides.style.bottom = 'auto';
 			}
 
 			// Select all slides, vertical and horizontal
