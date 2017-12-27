@@ -1822,14 +1822,7 @@
 				// in text layout/line breaks.
 				
 					dom.slides.style.left = '0';
-					dom.slides.style.top = '0';
-					
 					dom.slides.style.right = '0';
-					dom.slides.style.width = '90%';
-					dom.slides.style.width = '90%'
-					dom.slides.style.fontSize= scale*100+'%';
-				
-
 			}
 
 			// Select all slides, vertical and horizontal
